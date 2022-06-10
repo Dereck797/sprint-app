@@ -1,0 +1,26 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    width: 900px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.parent div {
+    width: 500px;
+    height: 300px;
+}
+
+.sprintapp__checktime {
+    display: flex;
+    justify-content:center;
+    padding: 1rem 1rem;
+    width: 30px;
+    height: 15px;
+}
+
+.sprintapp__checktime h3 {
+    margin: 20px 15px;
+}
